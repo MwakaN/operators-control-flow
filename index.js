@@ -1,5 +1,4 @@
 let studentGroup = 'SOCIAL SCIENCES';
-
 let scienceSubjects = 'Physics, Chemistry, Biology, Technical Drawing';
 let socialScienceSubjects = 'Accounting, Commerce, Marketing, Geography';
 let artsSubjects = 'Government, Economics, Literature, History';
@@ -22,6 +21,7 @@ if (studentGroup = scienceSubjects) {
  }
 
 
+
  let num = 10;
  pwr = num**2;
 
@@ -30,14 +30,11 @@ if (studentGroup = scienceSubjects) {
     console.log( 'The number ' + pwr +  ' is the power of 2 nearest to '  + num);
  }
 
- else if (pwr > num) {
+ else (pwr > num) 
+ {
 
     console.log( 'The number ' + pwr +  ' is the power of 2 nearest to '  + num);
  }
 
-else {
-
-    console.log ('The number ' + pwr + ' is the power of 2 nearest to ' + num)
-}
 
 // The number 100 is the power of 2 nearest to 10

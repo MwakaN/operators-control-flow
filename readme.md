@@ -84,14 +84,14 @@
         let num2 = 1
 
         console.log (num1 | num2); //return 5
-        
+
 
 4. for (let i = 1; i < 20; i += 7){
 
     console.log(i);
-}
+   }
 
- Answer: 1, 8, 15
+   Answer: 1, 8, 15
 
 
 

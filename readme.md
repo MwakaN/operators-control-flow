@@ -49,7 +49,7 @@
 
     i) if (balance <= 10)
 
-       text = ""insufficient funds";
+       console.log ("insufficient funds");
 
     ii) let num1 = 5 
 

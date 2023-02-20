@@ -22,7 +22,7 @@ if (studentGroup = scienceSubjects) {
  }
 
 
- let num = 2;
+ let num = 10;
  pwr = num**2;
 
  if (pwr < num) {
@@ -39,3 +39,5 @@ else {
 
     console.log ('The number ' + pwr + ' is the power of 2 nearest to ' + num)
 }
+
+// The number 100 is the power of 2 nearest to 10
